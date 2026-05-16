@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Chris Sullivan @SullivanChrisJ
-- 👀 I’m interested in Amateur Radio, SCUBA diving, electronics & computers
-- 🌱 I’m currently learning advanced morse code, taking a short break from programming
-- 💞️ I’m looking to collaborate radio station control - there must be a better way.
-- 📫 How to reach me: Through github.
-
+- 👀 I’m interested in Amateur Radio, Signals Intelligenc, electronics, & computers
+- My dog Ronin is a Border Terrier, and we do agility training & trials together
 <!---
 SullivanChrisJ/SullivanChrisJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
